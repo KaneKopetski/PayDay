@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PayDay
+comment1.params=
+comment1.target=PayDay()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PayDay\n
+comment2.params=name\ payRate\ hoursWorked\ deduction
+comment2.target=java.lang.String\ payDay(java.lang.String,\ double,\ double,\ double)
+numComments=3
